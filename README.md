@@ -1,2 +1,2 @@
 # Hotel-Booking-Analysis
-Analyzing the City Hotels &amp; Resorts Hotel Data
+Analyzing the Data of City Hotels &amp; Resort Hotels Through EDA
